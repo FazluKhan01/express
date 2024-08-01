@@ -4,6 +4,8 @@
 
 **This project has a [Code of Conduct][].**
 
+Fazlurrahman Khan
+
 ## Table of contents
 
 * [Installation](#Installation)
